@@ -19,36 +19,15 @@ My portfolio website. This website was created using **HTML (Hypertext Markup La
 ```
 📦simple-portfolio-website
  ┣ 📂assets
- ┃ ┣ 📂images
- ┃ ┃ ┣ 📜adobe-illustrator.svg
- ┃ ┃ ┣ 📜anforcom-feed.png
- ┃ ┃ ┣ 📜css.svg
- ┃ ┃ ┣ 📜D5391C07.png
- ┃ ┃ ┣ 📜favicon-khoeru.svg
- ┃ ┃ ┣ 📜figma.svg
- ┃ ┃ ┣ 📜HMTL-Web.png
- ┃ ┃ ┣ 📜html.svg
- ┃ ┃ ┣ 📜instagram.svg
- ┃ ┃ ┣ 📜javascript.svg
- ┃ ┃ ┣ 📜jumbotron-khoeru.svg
- ┃ ┃ ┣ 📜jumbotron-khoeru-creative.svg
- ┃ ┃ ┣ 📜linkedin.svg
- ┃ ┃ ┣ 📜logo-foot-khoeru.svg
- ┃ ┃ ┣ 📜logo-nav-khoeru.svg
- ┃ ┃ ┣ 📜menu-icon.svg
- ┃ ┃ ┣ 📜PPPC.png
- ┃ ┃ ┣ 📜whatsapp.svg
- ┃ ┃ ┣ 📜wht-facebook.svg
- ┃ ┃ ┣ 📜wht-instagram.svg
- ┃ ┃ ┣ 📜wht-linkedin.svg
- ┃ ┃ ┣ 📜wht-whatsapp.svg
- ┃ ┃ ┗ 📜winner-video.png
- ┃ ┣ 📂styles
- ┃ ┃ ┣ 📂img
- ┃ ┃ ┃ ┣ 📜DC6271D0.png
- ┃ ┃ ┃ ┗ 📜khoeru-bio.svg
- ┃ ┃ ┗ 📜style.css
- ┃ ┗ 📜main.js
+ ┃ ┣ 📂img
+ ┃ ┃ ┣ 📜none.svg
+ ┃ ┃ ┗ 📜none.png
+ ┃ ┣ 📂css
+ ┃ ┃ ┗ 📜none.css
+ ┃ ┣ 📂js
+ ┃ ┃ ┗ 📜none.css
+ ┃ ┗ 📂vendor
+ ┃   ┗ 📂none
  ┗ 📜index.html
 ```
 
