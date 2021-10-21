@@ -1,2 +1,72 @@
-# roziqinkhoeru.github.io
-My Portfolio
+# My Website
+
+My portfolio website. This website was created using **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)** and **JS (JavaScript)**.
+
+## Badges
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Features
+
+- Responsives all devices
+
+## Directory Structure
+
+```
+📦simple-portfolio-website
+ ┣ 📂assets
+ ┃ ┣ 📂images
+ ┃ ┃ ┣ 📜adobe-illustrator.svg
+ ┃ ┃ ┣ 📜anforcom-feed.png
+ ┃ ┃ ┣ 📜css.svg
+ ┃ ┃ ┣ 📜D5391C07.png
+ ┃ ┃ ┣ 📜favicon-khoeru.svg
+ ┃ ┃ ┣ 📜figma.svg
+ ┃ ┃ ┣ 📜HMTL-Web.png
+ ┃ ┃ ┣ 📜html.svg
+ ┃ ┃ ┣ 📜instagram.svg
+ ┃ ┃ ┣ 📜javascript.svg
+ ┃ ┃ ┣ 📜jumbotron-khoeru.svg
+ ┃ ┃ ┣ 📜jumbotron-khoeru-creative.svg
+ ┃ ┃ ┣ 📜linkedin.svg
+ ┃ ┃ ┣ 📜logo-foot-khoeru.svg
+ ┃ ┃ ┣ 📜logo-nav-khoeru.svg
+ ┃ ┃ ┣ 📜menu-icon.svg
+ ┃ ┃ ┣ 📜PPPC.png
+ ┃ ┃ ┣ 📜whatsapp.svg
+ ┃ ┃ ┣ 📜wht-facebook.svg
+ ┃ ┃ ┣ 📜wht-instagram.svg
+ ┃ ┃ ┣ 📜wht-linkedin.svg
+ ┃ ┃ ┣ 📜wht-whatsapp.svg
+ ┃ ┃ ┗ 📜winner-video.png
+ ┃ ┣ 📂styles
+ ┃ ┃ ┣ 📂img
+ ┃ ┃ ┃ ┣ 📜DC6271D0.png
+ ┃ ┃ ┃ ┗ 📜khoeru-bio.svg
+ ┃ ┃ ┗ 📜style.css
+ ┃ ┗ 📜main.js
+ ┗ 📜index.html
+```
+
+## Screenshots
+
+- Dekstop
+![Dekstop Screenshot](https://github.com/roziqinkhoeru/simple-portfolio-website/blob/bf00c73cced3345500f982abf890339ea17a877d/Dekstop-view-Simple%20Portfolio.png)
+
+- Mobile
+
+## Authors
+
+- [Khoeru Roziqin] ()
+
+## Contact and Social Media
+- ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [roziqinkhoeru](https://github.com/roziqinkhoeru)
+- ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Khoeru Roziqin](https://www.linkedin.com/in/roziqinkhoeru)
+- ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [@khroz_studio](https://www.instagram.com/khroz_studio/)
+- ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [roziqinkhoeru8.gmail.com](mailto:roziqinkhoeru8@gmail.com?)
+
+## Feedback
+
+If you have any feedback, please reach out to us at **roziqinkhoeru8@mail.com**
