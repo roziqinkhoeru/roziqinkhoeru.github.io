@@ -59,7 +59,7 @@ My portfolio website. This website was created using **HTML (Hypertext Markup La
 
 ## Authors
 
-- [Khoeru Roziqin] ()
+- [Khoeru Roziqin](https://github.com/roziqinkhoeru)
 
 ## Contact and Social Media
 - ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [roziqinkhoeru](https://github.com/roziqinkhoeru)
