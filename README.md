@@ -35,7 +35,7 @@ My portfolio website. This website was created using **HTML (Hypertext Markup La
 ## Screenshots
 
 - Dekstop
-  ![Dekstop Screenshot](https://github.com/roziqinkhoeru/simple-portfolio-website/blob/bf00c73cced3345500f982abf890339ea17a877d/Dekstop-view-Simple%20Portfolio.png)
+  <!-- ![Dekstop Screenshot](https://github.com/roziqinkhoeru/simple-portfolio-website/blob/bf00c73cced3345500f982abf890339ea17a877d/Dekstop-view-Simple%20Portfolio.png) -->
 
 - Mobile
 
