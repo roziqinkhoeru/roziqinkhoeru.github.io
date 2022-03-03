@@ -48,21 +48,26 @@ a:hover {
   align-items: center;
 }
 
-.container__A4 {
-  display: flex;
+.page[data-size="A4"] {
+  width: 1440px;
+}
 
-  align-items: flex-start;
+.container__A4 {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
 }
 
 /* left */
 .content__left {
   background: #141414;
-
-  flex: 0.4;
 }
 
 .content__left-container {
   padding: 38.72px 3.625rem 3.625rem;
+}
+
+.content__left-container .point {
+  margin-bottom: 0;
 }
 
 .profil__img {
@@ -161,12 +166,14 @@ a:hover {
 /* right */
 .content__right {
   padding: 3.625rem;
-
-  flex: 0.6;
 }
 
 .point {
   margin-bottom: 4.08rem;
+}
+
+.content__right .point:last-child {
+  margin-bottom: 0;
 }
 
 .title__point {
@@ -183,6 +190,10 @@ a:hover {
 
 .point__content {
   margin-bottom: 29.04px;
+}
+
+.point__content:last-child {
+  margin-bottom: 0;
 }
 
 .point__content-title {
