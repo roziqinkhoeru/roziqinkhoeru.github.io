@@ -17,7 +17,7 @@
   <body>
     <div id="preloader"></div>
 
-    <div class="page" data-size="A4">
+    <div id="page" data-size="A4">
       <div class="container__A4">
         <!-- left -->
         <div class="content__left">
@@ -263,6 +263,26 @@
       integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
       crossorigin="anonymous"
     ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/printThis/1.15.0/printThis.min.js"
+      integrity="sha512-d5Jr3NflEZmFDdFHZtxeJtBzk0eB+kkRXWFQqEc1EKmolXjHm2IKCA7kTvXBNjIYzjXfD5XzIjaaErpkZHCkBg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
     <script src="assets/js/scripts.js"></script>
+    <script>
+      $("#page").printThis({
+        printContainer: true, // print outer container/$.selector
+        pageTitle: "CV_Khoeru_Roziqin", // add title to print page
+        printDelay: 333, // variable print delay
+        header: null, // prefix to html
+        footer: null, // postfix to html
+        formValues: true, // preserve input/form values
+        canvas: false, // copy canvas content
+        beforePrintEvent: null, // function for printEvent in iframe
+        beforePrint: null, // function called before iframe is filled
+        afterPrint: null, // function called before iframe is removed
+      });
+    </script>
   </body>
 </html>

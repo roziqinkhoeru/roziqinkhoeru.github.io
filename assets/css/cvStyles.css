@@ -8,6 +8,7 @@
 
   --mb: 0.605rem;
 }
+
 * {
   font-family: "Inter", sans-serif;
 
@@ -48,12 +49,13 @@ a:hover {
   align-items: center;
 }
 
-.page[data-size="A4"] {
+#page[data-size="A4"] {
   width: 1440px;
 }
 
 .container__A4 {
   display: grid;
+
   grid-template-columns: 2fr 3fr;
 }
 
@@ -236,4 +238,37 @@ a:hover {
   margin-bottom: 0;
 
   color: var(--secondary-color);
+}
+
+@media print {
+  @page {
+    margin: 0;
+
+    size: A4;
+    /* DIN A4 standard, Europe */
+  }
+
+  html,
+  body {
+    /* height: 282mm; */
+    font-size: 11px;
+
+    overflow: visible;
+
+    width: 210mm;
+    height: 297mm;
+
+    background: #fff;
+  }
+
+  body {
+    padding: 0;
+  }
+
+  #page,
+  .container__A4,
+  .content__left,
+  .content__right {
+    height: 100%;
+  }
 }
