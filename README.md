@@ -1,8 +1,8 @@
-# My Portfolio Website
+# 😀 My Portfolio Website
 
 My portfolio website. This website was created using **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)**, and **JavaScript**.
 
-## Badges
+## 📛 Badges
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -13,7 +13,7 @@ My portfolio website. This website was created using **HTML (Hypertext Markup La
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-## Contact and Social Media
+## 👋 Contact and Social Media
 
 - ![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) [roziqinkhoeru](https://github.com/roziqinkhoeru)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [Khoeru Roziqin](https://www.linkedin.com/in/roziqinkhoeru)
