@@ -125,6 +125,18 @@ p {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#04BEFE', endColorstr='#4481EB', GradientType=0);
 }
 
+.text-gradient {
+  background-image: linear-gradient(
+    to right,
+    rgba(68, 129, 235, 1),
+    rgba(4, 190, 254, 1)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .btn__mssg a {
   display: flex;
 
