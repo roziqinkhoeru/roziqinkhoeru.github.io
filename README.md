@@ -20,6 +20,6 @@ My portfolio website. This website was created using **HTML (Hypertext Markup La
 - ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) [@khroz_studio](https://www.instagram.com/khroz_studio/)
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) [roziqinkhoeru8.gmail.com](mailto:roziqinkhoeru8@gmail.com?)
 
-## Feedback
+## 🤙 Feedback
 
 If you have any feedback, please reach out to us at **roziqinkhoeru8@mail.com**
