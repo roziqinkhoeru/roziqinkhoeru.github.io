@@ -65,23 +65,34 @@ p {
 /* navbar */
 .navbar__khroz {
   padding: 1rem 0;
-  /* box-shadow: 0 0 9px rgba(0, 0, 0, 0.1); */
 
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .navbar__khroz-brand {
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: 800;
 
   transition: all 0.3s ease-in-out;
   letter-spacing: 0.125rem;
 
-  color: rgba(0, 0, 0, 9);
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 1)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .navbar__khroz-brand:hover {
-  color: rgba(0, 0, 0, 0.6);
+  background-image: linear-gradient(
+    to right,
+    rgba(68, 129, 235, 1),
+    rgba(4, 190, 254, 1)
+  );
 }
 
 .btn__mssg {
@@ -435,6 +446,28 @@ p {
   -webkit-text-fill-color: transparent;
 }
 
+.main__content-icon__link i svg {
+  width: 1.5rem;
+  height: 1.5rem;
+  transform: translateY(-1px);
+}
+
+.main__content-icon__link i svg {
+  fill: rgba(0, 0, 0, 0.6);
+}
+
+.main__content-icon__link.illustrator i svg:hover {
+  fill: #ff9a00;
+}
+
+.main__content-icon__link.tailwind i svg:hover {
+  fill: #4cb2b4;
+}
+
+.main__content-icon__link.codeigniter i svg:hover {
+  fill: #ee4323;
+}
+
 @media screen and (max-width: 900px) {
   /* general */
   h1 {
@@ -488,6 +521,12 @@ p {
   /* preloader */
   #preloader {
     background-size: 76%;
+  }
+
+  .main__content-icon__link i svg {
+    width: 1.375rem;
+    height: 1.375rem;
+    transform: translateY(-1px);
   }
 }
 
