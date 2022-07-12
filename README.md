@@ -1,6 +1,7 @@
 # 😀 My Portfolio Website
 
 My portfolio website. This website was created using **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)**, and **JavaScript**.
+contains personal information and experiences that I have done.
 
 ## 📛 Badges
 
